@@ -10,7 +10,6 @@ body{
     display: grid;
     place-items: center;
     
-
 }
 
 fieldset {
@@ -21,3 +20,10 @@ fieldset {
     border: 3px solid #2c3e50;
     border-radius: 10px;
   }
+
+img{
+
+    height: 525px;
+    width: 475px;
+
+}
